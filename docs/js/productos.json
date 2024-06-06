@@ -1,0 +1,572 @@
+[
+    {
+        "id": "ropa-01",
+        "titulo": "BOSTON CELTICS JERSEY",
+        "imagen": "imagenes/ropa/jerseys/boston.jpeg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-02",
+        "titulo": "CLEAVELAND CAVALIERS JERSEY",
+        "imagen": "imagenes/ropa/jerseys/cleveland.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-03",
+        "titulo": "MEMPHIS GRIZZLIES JERSEY",
+        "imagen": "imagenes/ropa/jerseys/grizzlies.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-04",
+        "titulo": "HOUSTON ROCKETS JERSEY",
+        "imagen": "imagenes/ropa/jerseys/houston.png",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-05",
+        "titulo": "INDIANA PACERS JERSEY",
+        "imagen": "imagenes/ropa/jerseys/indiana.jpeg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-06",
+        "titulo": "LOS ANGELES LAKERS JERSEY",
+        "imagen": "imagenes/ropa/jerseys/lakers.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-07",
+        "titulo": "ORLANDO MAGIC JERSEY",
+        "imagen": "imagenes/ropa/jerseys/magic.jpeg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-08",
+        "titulo": "OKC THUNDER JERSEY",
+        "imagen": "imagenes/ropa/jerseys/okc.jpeg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-09",
+        "titulo": "TORONTO RAPTORS JERSEY",
+        "imagen": "imagenes/ropa/jerseys/raptors.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-10",
+        "titulo": "PHILADELPHIA 76ERS JERSEY",
+        "imagen": "imagenes/ropa/jerseys/sixers.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ropa-11",
+        "titulo": "CURRY TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/curry.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-12",
+        "titulo": "GOAT TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/goat.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-13",
+        "titulo": "JA MORANT SHOOTER TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/ja morant.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-14",
+        "titulo": "KOBE BRYANT TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/kobe 1.png",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-15",
+        "titulo": "KOBE BRYANT TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/kobe 2.png",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-16",
+        "titulo": "KOBE BRYANT TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/kobe 3.png",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-17",
+        "titulo": "KOBE BRYANT TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/kobe 4.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-18",
+        "titulo": "KOBE BRYANT TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/kobe 5.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-19",
+        "titulo": "KYRIE TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/kyrie.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "ropa-20",
+        "titulo": "LAMELLO BALL OMG TSHIRT",
+        "imagen": "imagenes/ropa/tshirts/lamello ball.jpg",
+        "categoria": {
+            "nombre": "JERSEYS Y T-SHIRTS",
+            "id": "ropa"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-1",
+        "titulo": "ALL STAR 1988 SHORT",
+        "imagen": "imagenes/ropa/shorts/all star 1988.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-2",
+        "titulo": "ALL STAR 1996 SHORT",
+        "imagen": "imagenes/ropa/shorts/all star 1996.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-3",
+        "titulo": "CHICAGO BULLS SHORT",
+        "imagen": "imagenes/ropa/shorts/chicago.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-4",
+        "titulo": "EASTERN CONFERENCE SHORT",
+        "imagen": "imagenes/ropa/shorts/eastern conference.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-5",
+        "titulo": "FINALS 1988 SHORT",
+        "imagen": "imagenes/ropa/shorts/finals chicago vs jazz.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-6",
+        "titulo": "MEMPHIS GRIZZLIES SHORT",
+        "imagen": "imagenes/ropa/shorts/grizzlies.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-7",
+        "titulo": "UTHA JAZZ SHORT",
+        "imagen": "imagenes/ropa/shorts/jazz.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-8",
+        "titulo": "ORLANDO MAGIC SHORT",
+        "imagen": "imagenes/ropa/shorts/magic black.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-9",
+        "titulo": "ORLANDO MAGIC SHORT",
+        "imagen": "imagenes/ropa/shorts/magic blue.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-10",
+        "titulo": "NORTH CAROLINA SHORT",
+        "imagen": "imagenes/ropa/shorts/north carolina.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-11",
+        "titulo": "HOUSTON ROCKETS SHORT",
+        "imagen": "imagenes/ropa/shorts/rockets.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-12",
+        "titulo": "TORONTO RAPTORS SHORT",
+        "imagen": "imagenes/ropa/shorts/toronto morado.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-13",
+        "titulo": "WESTERN CONFERENCE",
+        "imagen": "imagenes/ropa/shorts/western conference.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "roppa DOS-14",
+        "titulo": "2019 NBA SEASON SOCKS",
+        "imagen": "imagenes/ropa/socks/2019.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "roppa DOS-1",
+        "titulo": "2020 NBA SEASON SOCKS",
+        "imagen": "imagenes/ropa/socks/2020.jpg",
+        "categoria": {
+            "nombre": "calcetas y shorts",
+            "id": "ropa DOS"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "sneakers-01",
+        "titulo": "KOBE 4 MAMBACITA",
+        "imagen": "imagenes/sneakers/kobes/kobe 4 mambacita.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "sneakers-02",
+        "titulo": "KOBE 5 BRUCE LEE ALTERNATE",
+        "imagen": "imagenes/sneakers/kobes/kobe 5 bruce lee alternate.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 6800
+    },
+    {
+        "id": "sneakers-03",
+        "titulo": "KOBE 5 PJ TUCKER",
+        "imagen": "imagenes/sneakers/kobes/kobe 5 pj tucker.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "sneakers-04",
+        "titulo": "KOBE 6 ALL STAR",
+        "imagen": "imagenes/sneakers/kobes/kobe 6 all star.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "sneakers-05",
+        "titulo": "KOBE 6 DEL SOL",
+        "imagen": "imagenes/sneakers/kobes/kobe 6 del sol.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "sneakers-06",
+        "titulo": "KOBE 6 EYBL",
+        "imagen": "imagenes/sneakers/kobes/kobe 6 eybl.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "sneakers-07",
+        "titulo": "KOBE 6 GRINCH",
+        "imagen": "imagenes/sneakers/kobes/kobe 6 grinch.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "sneakers-08",
+        "titulo": "KOBE 6 MAMBACITA",
+        "imagen": "imagenes/sneakers/kobes/kobe 6 mambacita.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "sneakers-09",
+        "titulo": "KOBE 6 THINK PINK",
+        "imagen": "imagenes/sneakers/kobes/kobe 6 think pink.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "sneakers-10",
+        "titulo": "KOBE 8 WHAT THE",
+        "imagen": "imagenes/sneakers/kobes/kobe 8 what the.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakerS"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "sneakers-11",
+        "titulo": "GT CUT 3 (BLUE)",
+        "imagen": "imagenes/sneakers/gt-cut/gt cut 3 blue.jpeg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "sneakers-12",
+        "titulo": "GT CUT 3 (PINK)",
+        "imagen": "imagenes/sneakers/gt-cut/gt cut 3 pink.jpeg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "sneakers-13",
+        "titulo": "GT CUT 3 (RED)",
+        "imagen": "imagenes/sneakers/gt-cut/gt cut 3 red.jpeg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "sneakers-14",
+        "titulo": "GT CUT 3 (YELLOW)",
+        "imagen": "imagenes/sneakers/gt-cut/gt cut 3 yellow.jpeg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "sneakers-15",
+        "titulo": "GT CUT EYBL",
+        "imagen": "imagenes/sneakers/gt-cut/gt cut eybl.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "sneakers-16",
+        "titulo": "GT CUT THINK PINK",
+        "imagen": "imagenes/sneakers/gt-cut/gt cut think pink.jpg",
+        "categoria": {
+            "nombre": "Sneakers",
+            "id": "sneakers"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "ACCESORIOS-1",
+        "titulo": "NIKE ELITE BACKPACK (BLUE ROYAL)",
+        "imagen": "imagenes/accesorios/mochilas/elite azul 2.jpg",
+        "categoria": {
+            "nombre": "ACCESORIOS",
+            "id": "accesorios"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ACCESORIOS-1",
+        "titulo": "NIKE ELITE BACKPACK (BLUE)",
+        "imagen": "imagenes/accesorios/mochilas/elite azul.jpg",
+        "categoria": {
+            "nombre": "ACCESORIOS",
+            "id": "accesorios"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ACCESORIOS-1",
+        "titulo": "NIKE ELITE BACKPACK (BLACK)",
+        "imagen": "imagenes/accesorios/mochilas/elite negra.png",
+        "categoria": {
+            "nombre": "ACCESORIOS",
+            "id": "accesorios"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ACCESORIOS-1",
+        "titulo": "NIKE ELITE BACKPACK (BLUE ROYAL)",
+        "imagen": "imagenes/accesorios/mochilas/elite azul 2.jpg",
+        "categoria": {
+            "nombre": "ACCESORIOS",
+            "id": "accesorios"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ACCESORIOS-1",
+        "titulo": "NIKE ELITE BACKPACK TEAM USA",
+        "imagen": "imagenes/accesorios/mochilas/elite usa.jpeg",
+        "categoria": {
+            "nombre": "ACCESORIOS",
+            "id": "accesorios"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "ACCESORIOS-1",
+        "titulo": "NIKE ELITE BACKPACK (RED)",
+        "imagen": "imagenes/accesorios/mochilas/elite roja.jpg",
+        "categoria": {
+            "nombre": "ACCESORIOS",
+            "id": "accesorios"
+        },
+        "precio": 2000
+    }
+]
